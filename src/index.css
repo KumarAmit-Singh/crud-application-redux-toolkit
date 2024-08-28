@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.heading {
+  text-align: center;
+}
+
+.d-flex {
+  width: 85rem;
+}
+
+.d-flex .col {
+  margin-top: 2rem;
+  margin-left: 6rem;
+  margin-right: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.d-flex .form-control {
+  padding: .7rem;
+}
+
+.d-flex .mb-3 {
+  padding: .5rem;
+}
+
+.d-flex .col1 {
+  margin-top: 2rem;
+  width: 5rem;
+  margin-right: 1rem;
+}
+
+.list-group {
+  margin-left: 2rem;
+  margin-top: 3rem;
+}
+
+.list-group .d-flex {
+  padding: .7rem;
+} 
